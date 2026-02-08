@@ -198,15 +198,15 @@ for fold in range(fold_start, TrainingConfig.num_folds):
         schedule.step(val1)
 
 #         if epoch % vid == 0:
-#             G, P = predicting(model, test_loader)
-#             cindex, rm2, mse = calculate_metrics_and_return(G, P, test_loader)
+#             G, P = predicting(model, val_loader)
+#             cindex, rm2, mse = calculate_metrics_and_return(G, P, val_loader)
 #             # mse = get_mse(G, P)
 #             ci = concordance_index(G, P)
 #             # r2 = r2_score(G, P)
             
 #             if mse < best_test_mse:
 #                 best_test_mse = mse
-#                 log(f'epoch {epoch} test mse:{mse}, r2:{rm2}, ci:{ci}')
+#                 log(f'epoch {epoch} val mse:{mse}, r2:{rm2}, ci:{ci}')
 #                 # file_name = PathConfig.model_dir + dataset_name + '_' + str(epoch) + '.pt'
 #                 if model_file_name is not None:
 #                     torch.save(model.state_dict(), model_file_name)
