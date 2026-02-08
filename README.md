@@ -1,6 +1,4 @@
-# title
-
-Routing and Distillation Enhanced Multimodal Fusion for Robust Drug-Target Binding Affinity Prediction
+# Routing and Distillation Enhanced Multimodal Fusion for Robust Drug-Target Binding Affinity Prediction
 
 ## overview
 
