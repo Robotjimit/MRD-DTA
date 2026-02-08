@@ -4,7 +4,7 @@ Routing and Distillation Enhanced Multimodal Fusion for Robust Drug-Target Bindi
 
 ## overview
 
-![overview](fig/legend.png)
+![overview](fig1.png)
 
 ## abstract
 
