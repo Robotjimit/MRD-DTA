@@ -32,6 +32,9 @@ python main.py
 ├── utils.py
 ├── dataset.py
 ├── build_vocab.py
+├── kiba
+├── davis
+├── pdbbind
 └── __pycache__/
 ```
 
