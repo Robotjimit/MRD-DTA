@@ -12,8 +12,7 @@ Predicting drug–target binding affinity is a key challenge in computational dr
 
 ### dataset
 
-You can get the data from this link: https://drive.google.com/file/d/1u-uDPgK4Bm8dW4KvC7jUnbEhEeFTdlpt/view?usp=sharing
-
+You can get the data from this link: https://drive.google.com/file/d/1u-uDPgK4Bm8dW4KvC7jUnbEhEeFTdlpt/view?usp=drive_link.
 ### quickly start
 
 
